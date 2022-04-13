@@ -1,0 +1,16 @@
+Spright Weekly Sync Notes 4-12-2022
+
+- My last major project at the Tribe was the automation of a lengthy data assessment report using google APIs, 
+python plots, and geopandas to insert charts, maps and text into a google doc in the cloud.  Able to investigate 
+the possibilities for Spright Data reporting or future applications as needed.  
+- Automated Routing: Process working great with:          
+ SuitabilitySurface+Start/End Points => LeastCostPath => GeoJSON
+ GeoJSON => add CARS data => Export to KML
+ Able now to ingest .waypoints and convert to GeoJSON
+ GeoJSON => .waypoints conversion by tomorrow.
+- Learning more about PX4/dronecode Open Source Drone ecosystem.  Will be able to better understand how QGroundControl 
+communicates with UAV via MAVLINK protocol.  Per Tyler it seems that many customers are using this ecosystem, and could 
+facilitate flight planning that can be tailored to specific aircraft specs.
+- Surface Generation/Routing Automation work could lay the groundwork for the operator/customer planning of routes on the fly, 
+though still not sure how this might look and what the Ops role might be.
+- https://www.dronecode.org/

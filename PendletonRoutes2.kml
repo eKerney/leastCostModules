@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="598">
+        <Style id="601">
+            <IconStyle id="602">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="603">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="606">
+            <IconStyle id="607">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="608">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="611">
+            <IconStyle id="612">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="613">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="616">
+            <IconStyle id="617">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="618">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="621">
+            <IconStyle id="622">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="623">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="626">
+            <IconStyle id="627">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="628">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="631">
+            <IconStyle id="632">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="633">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="636">
+            <IconStyle id="637">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="638">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="641">
+            <IconStyle id="642">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="643">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="646">
+            <IconStyle id="647">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="648">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="651">
+            <IconStyle id="652">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="653">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="656">
+            <IconStyle id="657">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="658">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="661">
+            <IconStyle id="662">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="663">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="666">
+            <IconStyle id="667">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="668">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="671">
+            <IconStyle id="672">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="673">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="676">
+            <IconStyle id="677">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="678">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="681">
+            <IconStyle id="682">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="683">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="686">
+            <IconStyle id="687">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="688">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="691">
+            <IconStyle id="692">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="693">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="696">
+            <IconStyle id="697">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="698">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="701">
+            <IconStyle id="702">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="703">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="706">
+            <IconStyle id="707">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="708">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="711">
+            <IconStyle id="712">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="713">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="716">
+            <IconStyle id="717">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="718">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="721">
+            <IconStyle id="722">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="723">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="726">
+            <IconStyle id="727">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="728">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="731">
+            <IconStyle id="732">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="733">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="736">
+            <IconStyle id="737">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="738">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="741">
+            <IconStyle id="742">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="743">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="746">
+            <IconStyle id="747">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="748">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="751">
+            <IconStyle id="752">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="753">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="756">
+            <IconStyle id="757">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="758">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="761">
+            <IconStyle id="762">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="763">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="766">
+            <IconStyle id="767">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="768">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="771">
+            <IconStyle id="772">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="773">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="776">
+            <IconStyle id="777">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="778">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="781">
+            <IconStyle id="782">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="783">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="786">
+            <IconStyle id="787">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="788">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="791">
+            <IconStyle id="792">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="793">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="796">
+            <IconStyle id="797">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="798">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="801">
+            <IconStyle id="802">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="803">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="806">
+            <IconStyle id="807">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="808">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="811">
+            <IconStyle id="812">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="813">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="816">
+            <IconStyle id="817">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="818">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="821">
+            <IconStyle id="822">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="823">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="826">
+            <IconStyle id="827">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="828">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="831">
+            <IconStyle id="832">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="833">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="836">
+            <IconStyle id="837">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="838">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="841">
+            <IconStyle id="842">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="843">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="846">
+            <IconStyle id="847">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="848">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="851">
+            <IconStyle id="852">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="853">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="856">
+            <IconStyle id="857">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="858">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="861">
+            <IconStyle id="862">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="863">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="866">
+            <IconStyle id="867">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="868">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="871">
+            <IconStyle id="872">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="873">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="876">
+            <IconStyle id="877">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="878">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="881">
+            <IconStyle id="882">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="883">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="886">
+            <IconStyle id="887">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="888">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+                <hotSpot x="0.5" xunits="None" y="0" yunits="None"/>
+            </IconStyle>
+        </Style>
+        <Style id="891">
+            <LineStyle id="892">
+                <color>ffff7000</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="600">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 0  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.812132&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.650885&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1476.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#601</styleUrl>
+            <Point id="599">
+                <coordinates>-118.81213179500533,45.65088490320038,449.88480000000004</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 1  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.808738&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.648094&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1538.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;462.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#606</styleUrl>
+            <Point id="604">
+                <coordinates>-118.80873786019926,45.64809374501854,468.7824</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="610">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 2  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.816062&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.639325&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1423.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;347.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#611</styleUrl>
+            <Point id="609">
+                <coordinates>-118.81606206339742,45.63932545583998,433.73040000000003</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 3  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.835945&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.631856&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1601.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;525.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#616</styleUrl>
+            <Point id="614">
+                <coordinates>-118.83594512405102,45.63185583211854,487.9848</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="620">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 4  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.851187&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.628491&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1389.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;313.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#621</styleUrl>
+            <Point id="619">
+                <coordinates>-118.85118722273488,45.62849126843547,423.3672</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 5  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.861151&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.632706&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1369.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;293.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#626</styleUrl>
+            <Point id="624">
+                <coordinates>-118.86115097084982,45.632706125816796,417.2712</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="630">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 6  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.865591&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.642028&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1376.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;300.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#631</styleUrl>
+            <Point id="629">
+                <coordinates>-118.86559132417453,45.64202815240129,419.4048</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 7  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.870386&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.6471&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1327.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;251.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#636</styleUrl>
+            <Point id="634">
+                <coordinates>-118.87038580518185,45.64710024260735,404.4696</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="640">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 8  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.873149&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.646915&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1315.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;239.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#641</styleUrl>
+            <Point id="639">
+                <coordinates>-118.87314853801865,45.64691457645926,400.812</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 9  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.876769&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.651489&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1307.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;231.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#646</styleUrl>
+            <Point id="644">
+                <coordinates>-118.87676852830953,45.65148948488373,398.3736</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="650">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 10  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.906358&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.647412&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1458.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;382.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#651</styleUrl>
+            <Point id="649">
+                <coordinates>-118.90635780265603,45.64741168015918,444.39840000000004</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 11  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.920191&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.652236&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1242.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;166.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#656</styleUrl>
+            <Point id="654">
+                <coordinates>-118.92019127149186,45.65223641722561,378.5616</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="660">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 12  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.935225&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.653506&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1228.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;152.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#661</styleUrl>
+            <Point id="659">
+                <coordinates>-118.93522487224028,45.65350645967995,374.2944</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 13  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.950169&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.651017&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1216.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;140.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#666</styleUrl>
+            <Point id="664">
+                <coordinates>-118.95016851605226,45.651016802689796,370.6368</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="670">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 14  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.96072&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.655127&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1208.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;132.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#671</styleUrl>
+            <Point id="669">
+                <coordinates>-118.9607196311422,45.65512663980458,368.1984</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 15  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.967111&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.65951&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1244.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;168.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#676</styleUrl>
+            <Point id="674">
+                <coordinates>-118.96711093985716,45.65951046896692,379.1712</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="680">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 16  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.983436&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.660978&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1186.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;110.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#681</styleUrl>
+            <Point id="679">
+                <coordinates>-118.98343576462067,45.66097842497068,361.49280000000005</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 17  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.001697&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.66799&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1193.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;117.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#686</styleUrl>
+            <Point id="684">
+                <coordinates>-119.00169684197243,45.66799016108455,363.62640000000005</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="690">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 18  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.012065&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.66458&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1164.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;88.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#691</styleUrl>
+            <Point id="689">
+                <coordinates>-119.01206512377492,45.66458000294058,354.78720000000004</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 19  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.01579&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.664796&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1171.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;95.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#696</styleUrl>
+            <Point id="694">
+                <coordinates>-119.01579047549762,45.66479556736369,356.92080000000004</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="700">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 20  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.02684&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.675525&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1119.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;43.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#701</styleUrl>
+            <Point id="699">
+                <coordinates>-119.0268403486337,45.67552538264422,341.07120000000003</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 21  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.068782&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.670177&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1096.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;20.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#706</styleUrl>
+            <Point id="704">
+                <coordinates>-119.06878186433076,45.670176798379444,334.06080000000003</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="710">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 22  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.086364&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.675194&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1083.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#711</styleUrl>
+            <Point id="709">
+                <coordinates>-119.08636360260546,45.675194099092586,330.0984</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 23  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.112006&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.691016&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1051.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-25.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#716</styleUrl>
+            <Point id="714">
+                <coordinates>-119.11200644235718,45.69101609268293,320.3448</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="720">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 24  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.122772&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.690464&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1037.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-39.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#721</styleUrl>
+            <Point id="719">
+                <coordinates>-119.12277228311908,45.69046439189564,316.0776</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 25  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.127632&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.692163&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1067.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-9.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#726</styleUrl>
+            <Point id="724">
+                <coordinates>-119.12763200686238,45.6921633776274,325.2216</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="730">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 26  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.135314&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.69842&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1038.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-38.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#731</styleUrl>
+            <Point id="729">
+                <coordinates>-119.13531375804409,45.698420081997476,316.3824</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 27  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.152582&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.707676&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1017.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-59.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#736</styleUrl>
+            <Point id="734">
+                <coordinates>-119.15258178914645,45.70767613736895,309.9816</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="740">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 28  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.154552&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.711538&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1017.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-59.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#741</styleUrl>
+            <Point id="739">
+                <coordinates>-119.15455201324643,45.71153848837941,309.9816</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 29  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.160252&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.715611&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1009.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-67.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#746</styleUrl>
+            <Point id="744">
+                <coordinates>-119.1602523166106,45.71561144673508,307.5432</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="750">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 30  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.169248&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.720387&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;998.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-78.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#751</styleUrl>
+            <Point id="749">
+                <coordinates>-119.16924818930067,45.7203872257656,304.1904</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 31  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.172264&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.720298&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;996.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-80.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#756</styleUrl>
+            <Point id="754">
+                <coordinates>-119.17226351875699,45.720298491326176,303.5808</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="760">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 32  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.181541&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.725865&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;986.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-90.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#761</styleUrl>
+            <Point id="759">
+                <coordinates>-119.18154092904756,45.725864992455676,300.5328</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 33  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.188488&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.73518&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;975.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-101.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#766</styleUrl>
+            <Point id="764">
+                <coordinates>-119.18848803957573,45.73517969407215,297.18</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="770">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 34  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.199076&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.739266&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;962.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-114.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#771</styleUrl>
+            <Point id="769">
+                <coordinates>-119.1990759759502,45.739265942275814,293.2176</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 35  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.200336&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.742829&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;950.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-126.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#776</styleUrl>
+            <Point id="774">
+                <coordinates>-119.20033584054653,45.742828543323235,289.56</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="780">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 36  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.198439&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.746085&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;958.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#781</styleUrl>
+            <Point id="779">
+                <coordinates>-119.19843917521439,45.74608484674069,291.9984</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 37  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.206464&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.748086&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;958.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-118.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#786</styleUrl>
+            <Point id="784">
+                <coordinates>-119.2064636340882,45.748086428070785,291.9984</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="790">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 38  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.210992&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.755712&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;946.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-130.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#791</styleUrl>
+            <Point id="789">
+                <coordinates>-119.21099173565702,45.75571163339088,288.3408</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 39  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.211198&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.764905&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;991.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-85.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#796</styleUrl>
+            <Point id="794">
+                <coordinates>-119.21119767259431,45.764905495358974,302.0568</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="800">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 40  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.213485&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.766197&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;926.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-150.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#801</styleUrl>
+            <Point id="799">
+                <coordinates>-119.21348496018712,45.76619732934383,282.2448</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 41  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.214311&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.770253&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;968.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-108.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#806</styleUrl>
+            <Point id="804">
+                <coordinates>-119.21431145195045,45.77025268517206,295.0464</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="810">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 42  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.218606&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.772045&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;928.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-148.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#811</styleUrl>
+            <Point id="809">
+                <coordinates>-119.2186062876773,45.772044529489605,282.8544</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 43  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.220283&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.776775&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;922.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-154.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#816</styleUrl>
+            <Point id="814">
+                <coordinates>-119.2202827961731,45.77677524819343,281.0256</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="820">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 44  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.226888&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.778197&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;919.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-157.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#821</styleUrl>
+            <Point id="819">
+                <coordinates>-119.22688765969117,45.77819694657557,280.1112</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 45  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.230706&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.785523&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;920.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-156.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#826</styleUrl>
+            <Point id="824">
+                <coordinates>-119.23070600831504,45.785522572724325,280.416</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="830">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 46  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.241448&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.79&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;939.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-137.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#831</styleUrl>
+            <Point id="829">
+                <coordinates>-119.24144837343421,45.790000129375166,286.2072</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 47  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.258961&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.792912&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;945.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-131.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#836</styleUrl>
+            <Point id="834">
+                <coordinates>-119.25896094191798,45.792912290345896,288.036</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="840">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 48  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.297036&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.795275&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;956.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-120.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#841</styleUrl>
+            <Point id="839">
+                <coordinates>-119.29703599630983,45.79527537048755,291.3888</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="845">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 49  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.300173&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.798939&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;962.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-114.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#846</styleUrl>
+            <Point id="844">
+                <coordinates>-119.30017255183303,45.79893944873169,293.2176</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="850">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 50  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.293578&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.816421&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;932.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-144.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#851</styleUrl>
+            <Point id="849">
+                <coordinates>-119.29357814265643,45.81642071412936,284.0736</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 51  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.300528&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.820278&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;925.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-151.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#856</styleUrl>
+            <Point id="854">
+                <coordinates>-119.3005278026495,45.82027803066576,281.94</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="860">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 52  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.311824&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.821309&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;856.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-220.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#861</styleUrl>
+            <Point id="859">
+                <coordinates>-119.31182377964176,45.82130906922585,260.9088</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="865">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 53  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.323424&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.826466&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;800.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-276.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#866</styleUrl>
+            <Point id="864">
+                <coordinates>-119.32342407432975,45.82646557906314,243.84</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="870">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 54  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.326858&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.82924&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;813.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-263.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#871</styleUrl>
+            <Point id="869">
+                <coordinates>-119.3268581448218,45.82923974984627,247.8024</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="875">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 55  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.32891&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.834984&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;818.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-258.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#876</styleUrl>
+            <Point id="874">
+                <coordinates>-119.32890985733782,45.83498440204373,249.3264</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="880">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 56  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.325924&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.840308&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;772.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-304.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#881</styleUrl>
+            <Point id="879">
+                <coordinates>-119.32592358266362,45.84030838230221,235.3056</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <description>&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;height:100px&quot;&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:14px;text-align:center;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:125%text-align:center;font-weight:bold;background:#9CBCE2;&quot;&gt;&lt;td&gt;ID: 57  -  UNITS: ft&lt;/td&gt;&lt;/tr&gt;&lt;table style=&quot;width:200px;border:1px solid black;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;LON          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-119.312334&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;LAT          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;45.850166&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Flight Altitude &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;798.0&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot; bgcolor=&quot;#D4E4F3&quot;&gt;&lt;td&gt;AGL          &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;line-height:110%&quot;&gt;&lt;td&gt;Height Above Takeoff &lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;-278.0&lt;/td&gt;&lt;/tr&gt;</description>
+            <styleUrl>#886</styleUrl>
+            <Point id="884">
+                <coordinates>-119.31233415102737,45.850166194710255,243.2304</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="890">
+            <name>PendletonRoutes2</name>
+            <styleUrl>#891</styleUrl>
+            <LineString id="889">
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-118.81213179500533,45.65088490320038,449.88480000000004 -118.80873786019926,45.64809374501854,468.7824 -118.81606206339742,45.63932545583998,433.73040000000003 -118.83594512405102,45.63185583211854,487.9848 -118.85118722273488,45.62849126843547,423.3672 -118.86115097084982,45.632706125816796,417.2712 -118.86559132417453,45.64202815240129,419.4048 -118.87038580518185,45.64710024260735,404.4696 -118.87314853801865,45.64691457645926,400.812 -118.87676852830953,45.65148948488373,398.3736 -118.90635780265603,45.64741168015918,444.39840000000004 -118.92019127149186,45.65223641722561,378.5616 -118.93522487224028,45.65350645967995,374.2944 -118.95016851605226,45.651016802689796,370.6368 -118.9607196311422,45.65512663980458,368.1984 -118.96711093985716,45.65951046896692,379.1712 -118.98343576462067,45.66097842497068,361.49280000000005 -119.00169684197243,45.66799016108455,363.62640000000005 -119.01206512377492,45.66458000294058,354.78720000000004 -119.01579047549762,45.66479556736369,356.92080000000004 -119.0268403486337,45.67552538264422,341.07120000000003 -119.06878186433076,45.670176798379444,334.06080000000003 -119.08636360260546,45.675194099092586,330.0984 -119.11200644235718,45.69101609268293,320.3448 -119.12277228311908,45.69046439189564,316.0776 -119.12763200686238,45.6921633776274,325.2216 -119.13531375804409,45.698420081997476,316.3824 -119.15258178914645,45.70767613736895,309.9816 -119.15455201324643,45.71153848837941,309.9816 -119.1602523166106,45.71561144673508,307.5432 -119.16924818930067,45.7203872257656,304.1904 -119.17226351875699,45.720298491326176,303.5808 -119.18154092904756,45.725864992455676,300.5328 -119.18848803957573,45.73517969407215,297.18 -119.1990759759502,45.739265942275814,293.2176 -119.20033584054653,45.742828543323235,289.56 -119.19843917521439,45.74608484674069,291.9984 -119.2064636340882,45.748086428070785,291.9984 -119.21099173565702,45.75571163339088,288.3408 -119.21119767259431,45.764905495358974,302.0568 -119.21348496018712,45.76619732934383,282.2448 -119.21431145195045,45.77025268517206,295.0464 -119.2186062876773,45.772044529489605,282.8544 -119.2202827961731,45.77677524819343,281.0256 -119.22688765969117,45.77819694657557,280.1112 -119.23070600831504,45.785522572724325,280.416 -119.24144837343421,45.790000129375166,286.2072 -119.25896094191798,45.792912290345896,288.036 -119.29703599630983,45.79527537048755,291.3888 -119.30017255183303,45.79893944873169,293.2176 -119.29357814265643,45.81642071412936,284.0736 -119.3005278026495,45.82027803066576,281.94 -119.31182377964176,45.82130906922585,260.9088 -119.32342407432975,45.82646557906314,243.84 -119.3268581448218,45.82923974984627,247.8024 -119.32890985733782,45.83498440204373,249.3264 -119.32592358266362,45.84030838230221,235.3056 -119.31233415102737,45.850166194710255,243.2304</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
